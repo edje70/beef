@@ -38,5 +38,4 @@ beef:
               {os: 'kali', path: '/usr/share/metasploit-framework/'},
               {os: 'pentoo', path: '/usr/lib/metasploit'},
               {os: 'win', path: 'c:\\metasploit-framework\\'},
-              {os: 'custom', path: ''}
-            ]
+              {os: 'arch, path:'/usr/share/metasploit/'},
